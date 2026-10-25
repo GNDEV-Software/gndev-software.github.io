@@ -1,7 +1,3 @@
-layout: page 
-title: "Tab Group Essentials Extension's Privacy" 
-permalink: /tge-privacy
-
 # Privacy policy: Tab Group Essentials
 
 _Last updated: 2026-10-25_
